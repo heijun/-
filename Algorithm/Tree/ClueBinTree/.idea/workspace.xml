@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="ClueBinTree" targetName="ClueBinTree" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39841f72-8a9e-4b3b-899d-c8d32b5d8ed6" name="变更" comment="Commit ClueBinTree">
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/Main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/ThreadBinTree.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/ThreadBinTree.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/ThreadBinTree.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/ThreadBinTree.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/ThreadBinTree.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/vc60.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Debug/vc60.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/ThreadBinTree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/ThreadBinTree.dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/ThreadBinTree.dsw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/ThreadBinTree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/ThreadBinTree.ncb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/ThreadBinTree.opt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_ThreadBinTree/ThreadBinTree.plg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/.idea/AdvancedTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/BalanceBinaryTree/BalanceBinaryTree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/BalanceBinaryTree/BalanceBinaryTree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/BalanceBinaryTree/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/BinarySortTree/BinarySortTree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/BinarySortTree/BinarySortTree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/BinarySortTree/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b99bfab8679dae8a374e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b2b42e3da669ac4a5c26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a6529ec8ddc64b015e27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/directory-BalanceBinaryTree-Debug-6ea3a8bf308793e1f346.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/directory-BinarySortTree-Debug-50bd7715f2527d82be48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/index-2022-09-06T01-36-55-0422.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/target-BalanceBinaryTree-Debug-5be20fabbdf9d5a2ea9c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/target-BinarySortTree-Debug-0514746878aa2beebbfc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6d68eaa166b64e0c64cc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/BalanceBinaryTree/BalanceBinaryTree.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/BalanceBinaryTree/CMakeFiles/BalanceBinaryTree.dir/BalanceBinaryTree.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/BalanceBinaryTree/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/BinarySortTree/BinarySortTree.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/BinarySortTree/CMakeFiles/BinarySortTree.dir/BinarySortTree.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/BinarySortTree/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedTree/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/.idea/BinTreeBuild.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3a96c83f4ec2a202e84c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-66b978de433aade5625d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-32286ece4aa84cd7430b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/reply/index-2022-09-05T04-08-01-0187.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/reply/target-BinTreeBuild-Debug-026e02fe66b6fb3b3396.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6d68eaa166b64e0c64cc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/BinTreeBuild.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/BinTreeBuild.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/BinTreeBuild.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinTreeBuild/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/.idea/ClueBinTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a9ca44ee4f3f3a3ae782.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-67e479030833ef08783b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d282b317dce2b8127050.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/reply/index-2022-09-05T11-48-53-0507.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/reply/target-ClueBinTree-Debug-b8dd525440e0f4691d56.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6d68eaa166b64e0c64cc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/ClueBinTree.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/ClueBinTree.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClueBinTree/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202009/942a5ce8-fe34-11ea-a6a1-00163e0396a1/课件(动效演示).pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202009/c53b3bcc-fe34-11ea-97a4-00163e0a088c/参考文献.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第2章算法/2课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第3章线性表/01线性表顺序存储_List.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第3章线性表/02线性表链式存储_LinkList.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第3章线性表/03静态链表_StaticLinkList.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第3章线性表/3课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第4章栈与队列/01顺序栈_Stack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第4章栈与队列/02两栈共享空间_DoubleStack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第4章栈与队列/03链栈_LinkStack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第4章栈与队列/04斐波那契函数_Fibonacci.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第4章栈与队列/05顺序队列_Queue.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第4章栈与队列/06链队列_LinkQueue.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第4章栈与队列/4课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第5章串/01串_String.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第5章串/02模式匹配_KMP.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第5章串/03模式匹配_KMP对比_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第5章串/5课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第6章树/01二叉树顺序结构实现_BiTreeArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第6章树/02二叉树链式结构实现_BiTreeLink.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第6章树/03线索二叉树_ThreadBinaryTree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第6章树/6课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/01邻接矩阵创建_CreateMGraph.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/02邻接表创建_CreateALGraph.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/03邻接矩阵深度和广度遍历DFS_BFS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/04邻接表深度和广度遍历DFS_BFS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/05最小生成树_Prim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/06最小生成树_Kruskal.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/07最短路径_Dijkstra.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/08最短路径_Floyd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/09拓扑排序_TopologicalSort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/10关键路径_CriticalPath.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第7章图/7课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第8章查找/01静态查找_Search.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第8章查找/02二叉排序树_BinarySortTree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第8章查找/03平衡二叉树_AVLTree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第8章查找/04B树_BTree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第8章查找/05散列表_HashTable.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第8章查找/8课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第9章排序/01排序_Sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/Windows版/第9章排序/9课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第2章算法/2课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第3章线性表/01线性表顺序存储_List_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第3章线性表/02线性表链式存储_LinkList_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第3章线性表/03静态链表_StaticLinkList_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第3章线性表/3课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第4章栈与队列/01顺序栈_Stack_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第4章栈与队列/02两栈共享空间_DoubleStack_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第4章栈与队列/03链栈_LinkStack_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第4章栈与队列/04斐波那契函数_Fibonacci_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第4章栈与队列/05顺序队列_Queue_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第4章栈与队列/06链队列_LinkQueue_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第4章栈与队列/4课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第5章串/01串_String_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第5章串/02模式匹配_KMP_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第5章串/03模式匹配_KMP对比_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第5章串/5课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第6章树/01二叉树顺序结构实现_BiTreeArray_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第6章树/02二叉树链式结构实现_BiTreeLink_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第6章树/03线索二叉树_ThreadBinaryTree_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第6章树/6课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/01邻接矩阵创建_CreateMGraph_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/02邻接表创建_CreateALGraph_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/03邻接矩阵深度和广度遍历DFS_BFS_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/04邻接表深度和广度遍历DFS_BFS_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/05最小生成树_Prim_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/06最小生成树_Kruskal_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/07最短路径_Dijkstra_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/08最短路径_Floyd_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/09拓扑排序_TopologicalSort_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/10关键路径_CriticalPath_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第7章图/7课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第8章查找/01静态查找_Search_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第8章查找/02二叉排序树_BinarySortTree_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第8章查找/03平衡二叉树_AVLTree_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第8章查找/04B树_BTree_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第8章查找/05散列表_HashTable_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第8章查找/8课程代码.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第9章排序/01排序_Sort_UTF-8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../大话数据结构源码课件/59e95a4689eeb92f380f4ab2/202107/29976aaa-ef7a-11eb-aba5-00163e0a088c/源代码/非Windows版（MAC,LINUX）/第9章排序/9课程代码.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="2EL7KpPnJZC6sHlaJUXrhGry2hA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/CLionProjects/Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClueBinTree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ClueBinTree" TARGET_NAME="ClueBinTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ClueBinTree" RUN_TARGET_NAME="ClueBinTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="39841f72-8a9e-4b3b-899d-c8d32b5d8ed6" name="变更" comment="" />
+      <created>1662362949215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662362949215</updated>
+      <workItem from="1662362950915" duration="8137000" />
+      <workItem from="1662379209880" duration="1358000" />
+      <workItem from="1662425067651" duration="2414000" />
+      <workItem from="1662444678338" duration="335000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit ClueBinTree">
+      <created>1662368808744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662368808744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit ClueBinTree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit ClueBinTree" />
+  </component>
+</project>

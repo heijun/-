@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "SequenceTable",
+					"jsonFile" : "directory-SequenceTable-Debug-4b034cea1c58063d6693.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SequenceTable",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "ChainTable",
+					"jsonFile" : "directory-ChainTable-Debug-8707f12f1aad6561d6d6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ChainTable",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Table_Structure",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "ChainTable::@b77184fb05ba414e4ce7",
+					"jsonFile" : "target-ChainTable-Debug-47b68e4cf3eb215e101d.json",
+					"name" : "ChainTable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SequenceTable::@5a06cf2a1b45afde043a",
+					"jsonFile" : "target-SequenceTable-Debug-c6643f81ebde5dcc5b1e.json",
+					"name" : "SequenceTable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug",
+		"source" : "E:/CLionProjects/Algorithm/Table_Structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

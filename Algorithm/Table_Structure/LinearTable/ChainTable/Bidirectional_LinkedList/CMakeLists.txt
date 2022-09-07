@@ -1,0 +1,3 @@
+include_directories(.)
+
+add_executable(Bidirectional_LinkedList Bidirectional_LinkedList.c)

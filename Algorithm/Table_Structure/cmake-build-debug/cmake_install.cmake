@@ -39,12 +39,32 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/SequenceTable/cmake_install.cmake")
+  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/LinearTable/SequenceTable/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/ChainTable/cmake_install.cmake")
+  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/LinearTable/ChainTable/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/Special_LinearTable/Queue/ArrayQueue/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/Special_LinearTable/Queue/LinkedQueue/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/Special_LinearTable/Stack/ArrayStack/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/CLionProjects/Algorithm/Table_Structure/cmake-build-debug/Special_LinearTable/Stack/ListNode/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

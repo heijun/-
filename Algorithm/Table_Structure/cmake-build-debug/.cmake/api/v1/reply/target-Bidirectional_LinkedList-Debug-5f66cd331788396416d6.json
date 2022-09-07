@@ -1,0 +1,137 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "LinearTable/ChainTable/Bidirectional_LinkedList/Bidirectional_LinkedList.exe"
+		},
+		{
+			"path" : "LinearTable/ChainTable/Bidirectional_LinkedList/Bidirectional_LinkedList.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"LinearTable/ChainTable/Bidirectional_LinkedList/CMakeLists.txt",
+			"LinearTable/ChainTable/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu99"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "E:/CLionProjects/Algorithm/Table_Structure/LinearTable/ChainTable/."
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/CLionProjects/Algorithm/Table_Structure/LinearTable/ChainTable/Bidirectional_LinkedList/."
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "99"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "Bidirectional_LinkedList::@f19ee027e1a5ea2ec6ac",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "Bidirectional_LinkedList",
+	"nameOnDisk" : "Bidirectional_LinkedList.exe",
+	"paths" : 
+	{
+		"build" : "LinearTable/ChainTable/Bidirectional_LinkedList",
+		"source" : "LinearTable/ChainTable/Bidirectional_LinkedList"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LinearTable/ChainTable/Bidirectional_LinkedList/Bidirectional_LinkedList.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

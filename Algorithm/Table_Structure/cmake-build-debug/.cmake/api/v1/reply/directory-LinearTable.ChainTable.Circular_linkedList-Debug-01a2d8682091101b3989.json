@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "LinearTable/ChainTable/Circular_linkedList",
+		"source" : "LinearTable/ChainTable/Circular_linkedList"
+	}
+}

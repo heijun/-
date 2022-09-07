@@ -1,0 +1,11 @@
+# ninja log v5
+2	175	6842180037395695	BinaryTree/CMakeFiles/BinaryTree.dir/main.c.obj	6689adcc55ffbb9f
+176	368	6842180039289680	BinaryTree/BinaryTree.exe	b9a231e956454822
+1	261	6842181454254616	AdvancedTree/ThreadedBinaryTree/CMakeFiles/ThreadBinaryTree.dir/ThreadedBinaryTree.c.obj	b2f5142938a66a33
+262	820	6842181459813277	AdvancedTree/ThreadedBinaryTree/ThreadBinaryTree.exe	1a03d26d5e524187
+1	185	6842183838866331	AdvancedTree/BinarySearchTree/CMakeFiles/BinarySearchTree.dir/BinarySearchTree.c.obj	2e9f3b4905664cc5
+186	355	6842183840547294	AdvancedTree/BinarySearchTree/BinarySearchTree.exe	bed04a8d9e98b61c
+2	184	6842187231664915	AdvancedTree/BinaryBalancedTree/CMakeFiles/BinaryBalancedTree.dir/BinaryBalancedTree.c.obj	ca9cc6c45c903efb
+184	596	6842187234747758	AdvancedTree/BinaryBalancedTree/BinaryBalancedTree.exe	419d9c32bd1592d5
+32	314	6842187345243984	AdvancedTree/BinaryBalancedTree/CMakeFiles/BinaryBalancedTree.dir/BinaryBalancedTree.c.obj	ca9cc6c45c903efb
+315	512	6842187347204105	AdvancedTree/BinaryBalancedTree/BinaryBalancedTree.exe	419d9c32bd1592d5

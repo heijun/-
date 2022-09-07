@@ -1,0 +1,5 @@
+include_directories(.)
+
+add_subdirectory(ThreadedBinaryTree)
+add_subdirectory(BinarySearchTree)
+add_subdirectory(BinaryBalancedTree)

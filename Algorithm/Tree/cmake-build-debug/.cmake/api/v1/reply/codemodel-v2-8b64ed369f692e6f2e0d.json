@@ -1,0 +1,167 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "BinaryTree",
+					"jsonFile" : "directory-BinaryTree-Debug-1a8e499b5f8080b4e628.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "BinaryTree",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "AdvancedTree",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-AdvancedTree-Debug-17703598627946aa6d69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "AdvancedTree"
+				},
+				{
+					"build" : "AdvancedTree/ThreadedBinaryTree",
+					"jsonFile" : "directory-AdvancedTree.ThreadedBinaryTree-Debug-c7b0f3c9ea99cfdfadb9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "AdvancedTree/ThreadedBinaryTree",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "AdvancedTree/BinarySearchTree",
+					"jsonFile" : "directory-AdvancedTree.BinarySearchTree-Debug-009818cbc5a3fd1a2b29.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "AdvancedTree/BinarySearchTree",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "AdvancedTree/BinaryBalancedTree",
+					"jsonFile" : "directory-AdvancedTree.BinaryBalancedTree-Debug-b572effa19cf9353b4e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "AdvancedTree/BinaryBalancedTree",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "Tree",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 5,
+					"id" : "BinaryBalancedTree::@d60a78c828e50556b46f",
+					"jsonFile" : "target-BinaryBalancedTree-Debug-3fe924312ec4de3ffd05.json",
+					"name" : "BinaryBalancedTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "BinarySearchTree::@e6e9305b25da9592a88f",
+					"jsonFile" : "target-BinarySearchTree-Debug-07e2c9d31362cacb91a1.json",
+					"name" : "BinarySearchTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "BinaryTree::@0d392827d9c8860ec6ad",
+					"jsonFile" : "target-BinaryTree-Debug-6e10d149b31e6f524955.json",
+					"name" : "BinaryTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ThreadBinaryTree::@7629d343ca6ec4fc3f48",
+					"jsonFile" : "target-ThreadBinaryTree-Debug-b80daca8a319fc4ae47f.json",
+					"name" : "ThreadBinaryTree",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CLionProjects/Algorithm/Tree/cmake-build-debug",
+		"source" : "E:/CLionProjects/Algorithm/Tree"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
